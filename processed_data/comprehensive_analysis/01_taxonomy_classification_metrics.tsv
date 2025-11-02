@@ -1,0 +1,15 @@
+Method	Level	Precision	Recall	F1_Score	Accuracy	Common_Features
+QIIME2	Kingdom	1	1	1	1	770
+QIIME2	Phylum	1	1	1	1	770
+QIIME2	Class	1	1	1	1	770
+QIIME2	Order	1	1	1	1	770
+QIIME2	Family	1	1	1	1	770
+QIIME2	Genus	1	1	1	1	770
+QIIME2	Species	1	1	1	1	770
+DADA2	Kingdom	0	0	0	0	0
+DADA2	Phylum	0	0	0	0	0
+DADA2	Class	0	0	0	0	0
+DADA2	Order	0	0	0	0	0
+DADA2	Family	0	0	0	0	0
+DADA2	Genus	0	0	0	0	0
+DADA2	Species	0	0	0	0	0

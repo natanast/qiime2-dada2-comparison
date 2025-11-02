@@ -1,0 +1,15 @@
+# Large data files
+data/emp-single-end-sequences/
+data/silva_nr99_v138.1_train_set.fa.gz
+data/fastq_files/
+
+# Temporary R files
+.RData
+.Rhistory
+
+# QIIME2 temporary files
+*.qza
+*.qzv
+
+# Processed data (can be regenerated)
+processed_data/
