@@ -1,0 +1,38 @@
+sample-id,filename,direction
+# direction is not meaningful in this file as these
+# data may be derived from forward, reverse, or 
+# joined reads
+L2S204,L2S204_1_L001_R1_001.fastq.gz,forward
+L5S155,L5S155_2_L001_R1_001.fastq.gz,forward
+L5S203,L5S203_3_L001_R1_001.fastq.gz,forward
+L3S360,L3S360_4_L001_R1_001.fastq.gz,forward
+L1S281,L1S281_5_L001_R1_001.fastq.gz,forward
+L1S140,L1S140_6_L001_R1_001.fastq.gz,forward
+L2S240,L2S240_7_L001_R1_001.fastq.gz,forward
+L1S8,L1S8_8_L001_R1_001.fastq.gz,forward
+L1S105,L1S105_9_L001_R1_001.fastq.gz,forward
+L1S208,L1S208_10_L001_R1_001.fastq.gz,forward
+L1S257,L1S257_11_L001_R1_001.fastq.gz,forward
+L1S76,L1S76_12_L001_R1_001.fastq.gz,forward
+L1S57,L1S57_13_L001_R1_001.fastq.gz,forward
+L5S240,L5S240_14_L001_R1_001.fastq.gz,forward
+L2S357,L2S357_15_L001_R1_001.fastq.gz,forward
+L3S294,L3S294_16_L001_R1_001.fastq.gz,forward
+L5S222,L5S222_17_L001_R1_001.fastq.gz,forward
+L3S341,L3S341_18_L001_R1_001.fastq.gz,forward
+L3S242,L3S242_19_L001_R1_001.fastq.gz,forward
+L6S20,L6S20_20_L001_R1_001.fastq.gz,forward
+L4S137,L4S137_21_L001_R1_001.fastq.gz,forward
+L6S93,L6S93_22_L001_R1_001.fastq.gz,forward
+L2S222,L2S222_23_L001_R1_001.fastq.gz,forward
+L3S378,L3S378_24_L001_R1_001.fastq.gz,forward
+L2S155,L2S155_25_L001_R1_001.fastq.gz,forward
+L4S112,L4S112_26_L001_R1_001.fastq.gz,forward
+L2S175,L2S175_27_L001_R1_001.fastq.gz,forward
+L5S104,L5S104_28_L001_R1_001.fastq.gz,forward
+L5S174,L5S174_29_L001_R1_001.fastq.gz,forward
+L6S68,L6S68_30_L001_R1_001.fastq.gz,forward
+L4S63,L4S63_31_L001_R1_001.fastq.gz,forward
+L3S313,L3S313_32_L001_R1_001.fastq.gz,forward
+L2S309,L2S309_33_L001_R1_001.fastq.gz,forward
+L2S382,L2S382_34_L001_R1_001.fastq.gz,forward
